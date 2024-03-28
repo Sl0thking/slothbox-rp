@@ -2,6 +2,7 @@
   "id": "slothbox-rp",
   "title": "Slothbox RP Collection",
   "version": "0.1.0",
+  "manifest": "https://github.com/Sl0thking/slothbox-rp/module.json",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
