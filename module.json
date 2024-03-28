@@ -1,0 +1,60 @@
+{
+  "id": "slothbox-rp",
+  "title": "Slothbox RP Collection",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Kevin Jolitz"
+    }
+  ],
+  "packs": [
+    {
+      "name": "slothbox-bestiarium",
+      "label": "Slothbox Bestiarium",
+      "path": "packs/slothbox-bestiarium",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "slothbox-fantasy-music",
+      "label": "Slothbox Fantasy Music",
+      "path": "packs/slothbox-fantasy-music",
+      "type": "Playlist",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "slthbox-common-npcs",
+      "label": "Slthbox Common NPCs",
+      "path": "packs/slthbox-common-npcs",
+      "type": "Actor",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "slothbox-common-notes",
+      "label": "Slothbox Common Notes",
+      "path": "packs/slothbox-common-notes",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
