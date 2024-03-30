@@ -1,7 +1,7 @@
 {
   "id": "slothbox-rp",
   "title": "Slothbox RP Collection",
-  "version": "0.2.0",
+  "version": "0.3.0-dev",
   "url": "https://github.com/Sl0thking/slothbox-rp",
   "manifest": "https://github.com/Sl0thking/slothbox-rp/releases/latest/download/module.json",
   "download": "https://github.com/Sl0thking/slothbox-rp/releases/latest/download/slothbox-rp.zip",
@@ -18,7 +18,7 @@
     {
       "name": "slothbox-bestiarium",
       "label": "Slothbox Bestiarium",
-      "path": "packs/slothbox-bestiarium",
+      "path": "packs/slothbox/slothbox-bestiarium",
       "type": "Actor",
       "system": "pf2e",
       "ownership": {
@@ -29,7 +29,7 @@
     {
       "name": "slothbox-fantasy-music",
       "label": "Slothbox Fantasy Music",
-      "path": "packs/slothbox-fantasy-music",
+      "path": "packs/slothbox/slothbox-fantasy-music",
       "type": "Playlist",
       "system": "pf2e",
       "ownership": {
@@ -40,7 +40,7 @@
     {
       "name": "slthbox-common-npcs",
       "label": "Slthbox Common NPCs",
-      "path": "packs/slthbox-common-npcs",
+      "path": "packs/slothbox/slothbox-common-npcs",
       "type": "Actor",
       "system": "pf2e",
       "ownership": {
@@ -51,7 +51,7 @@
     {
       "name": "slothbox-common-notes",
       "label": "Slothbox Common Notes",
-      "path": "packs/slothbox-common-notes",
+      "path": "packs/slothbox/slothbox-common-notes",
       "type": "JournalEntry",
       "system": "pf2e",
       "ownership": {
